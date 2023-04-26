@@ -2,6 +2,8 @@
 
 This repository contain the source code a natural language processing (NLP) project to use Naive Bayes classifier to predict the political affiliation of member of the Norwegian parliment.
 
+The project is part of the project in the course [TDT4310](https://www.ntnu.no/studier/emner/TDT4310), Intelligent Text Analytics and Language Understanding, at NTNU.
+
 # How to run
 
 It it recommended to run the project in a virtual environment, but not a requirement. For how to set up the venv look [here](https://docs.python.org/3/library/venv.html).
