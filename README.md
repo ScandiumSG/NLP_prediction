@@ -31,3 +31,8 @@ The scripts do the following:
   - Trains, generates confusion matrix, and attempts to make a prediction on a few select, hard-coded, sentences. Results are printed to console.
 - makePartyPlot.py
   - Makes a bar graph of each party and the number of documents associated with each party.
+
+# How to predict?
+
+At this point, the only way to make predictions is to add the text to the testModelPrediction.py class and run the testPrediction.py script.
+When I have time and feel up to it, some changes in handling and implementation of a basic CLI will be done.
