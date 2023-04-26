@@ -1,7 +1,6 @@
 from load import DataFetcher
 from processData import DataProcessor
 from PredictionModel import PredictionClassifier
-from testModelPrediction import testPrediction
 
 fetcher = DataFetcher()
 processor = DataProcessor()
