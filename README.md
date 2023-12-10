@@ -35,4 +35,4 @@ The scripts do the following:
 # How to predict?
 
 At this point, the only way to make predictions is to add the text to the testModelPrediction.py class and run the testPrediction.py script.
-When I have time and feel up to it, some changes in handling and implementation of a basic CLI will be done.
+
